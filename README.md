@@ -2,9 +2,9 @@
 
 # 快速搭建
 
-# npm install -g hexo-cli
+ npm install -g hexo-cli
 
-# hexo init
+ hexo init
 
 
 # 本地预览：
